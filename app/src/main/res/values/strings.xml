@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">AndroidERestaurant</string>
+    <string-array name="plats">
+        <item>Burger Italien</item>
+
+
+    </string-array>
+    <!--Page d'acceuil-->
+
+    <string name="home_page_title">A decouvrir</string>
+    <string name="home_page_last_command">Dernieres commandes</string>
+    <string name="home_page_command_description">Description de la commande</string>
+
+    <!--liste de commande -->
+    <string name="item_entree_name">nom de lentree</string>
+    <string name="item_plat_name">nom du plat</string>
+    <string name="item_dessert_name">nom du dessert</string>
+
+
+    <!--page d'ajout de commande -->
+    <string name="item_add_entree_name">ajouter lentree</string>
+    <string name="item_entree_name_upload_button">ajouter lentree</string>
+
+    <string name="item_add_plat_name">ajouter le plat</string>
+    <string name="item_plat_name_upload_button">ajouter le plat</string>
+
+    <string name="item_add_dessert_name">ajouter le dessert</string>
+    <string name="item_dessert_name_upload_button">ajouter le dessert</string>
+
+    <string-array name="add_plat_page_grow_spinner_input"></string-array>
+
+
+
+    <!--validation de la commande finale -->
+    <string name="validation_de_la_commande">validation de la commande</string>
+
+
+
+</resources>
